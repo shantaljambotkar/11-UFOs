@@ -7,7 +7,7 @@ This analysis is to learn JavaScript which is increasingly used in advanced prog
 
 The purpose of the analysis is to create a dashboard which is filterable/searchable and gives us the required output.
 
-![Webpase layout](Webpage%20layout.JPG)
+![Webpase layout](static/images/Webpage%20layout.JPG)
 
 ## Summary: There is a description of how to perform a search, with images. (4 pt)
 
